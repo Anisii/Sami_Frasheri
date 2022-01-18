@@ -1,0 +1,23 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    padding-top: 100px;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+}
+
+.outsideimage {
+    position: fixed;
+    left: 20px;
+    top: 3.5px;
+    z-index: 100000000;
+}
+
+.outsideimage2 {
+    width: 70px
+}
